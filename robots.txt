@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pbz.world/sitemap.xml
